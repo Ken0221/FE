@@ -1,0 +1,18 @@
+# for local use
+.vscode
+.DS_Store
+
+# image
+*.png
+*.jpg
+*.jpeg
+
+# execute file
+*.exe
+*.out
+*.o
+
+# data
+*.csv
+
+
